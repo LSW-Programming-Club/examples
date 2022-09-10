@@ -8,6 +8,12 @@ Since we haven't learned about how to use GUI's in python yet you will have to m
 
 A Quiz game - EASY
 
+Rock Paper Scissors - EASY
+
 Text Based Adventure game - MEDIUM
+
+Tic Tac Toe - MEDIUM
+
+Hangman - MEDIUM
 
 Snake - HARD
